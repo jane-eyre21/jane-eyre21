@@ -250,14 +250,6 @@ Designed embedded firmware and cloud dashboards for real-time sensor monitoring 
 
 Created real-time image processing and object detection systems optimized for edge devices and embedded hardware.
 
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=janeburo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janeburo&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
 
 ---
 
